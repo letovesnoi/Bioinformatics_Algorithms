@@ -1,0 +1,5 @@
+(fish1,fish2)megafish;
+>fish1
+ACGTAAGCCTGAACGGTTA
+>fish2
+ACGTAAGCCTGTTCGGTTA
