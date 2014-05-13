@@ -1,0 +1,4 @@
+>repeat1
+AAAAAAAAAC
+>repeat2
+AAAATAAAAC
